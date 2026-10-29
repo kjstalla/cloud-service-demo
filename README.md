@@ -1,5 +1,5 @@
 ## Git Version Control for a Cloud Project
-# Kris Stallard
+By: Kris Stallard
 
 ## Purpose
 Demonstrates how Git and GitHub can be used to manage a cloud project.
